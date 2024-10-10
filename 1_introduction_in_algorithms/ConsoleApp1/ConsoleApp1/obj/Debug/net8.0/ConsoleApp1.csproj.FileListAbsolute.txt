@@ -1,0 +1,15 @@
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\grokking_algorithms_C#\1_introduction_in_algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
