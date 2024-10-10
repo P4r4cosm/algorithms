@@ -33,6 +33,6 @@ class Program
         {
                 array[i] = i*2;
         }
-        Console.WriteLine( BinarySearch(array,10));
+        Console.WriteLine( BinarySearch(array,20));
     }
 }
